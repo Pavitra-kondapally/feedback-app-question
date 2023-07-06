@@ -1,0 +1,45 @@
+/* Write your CSS code here. */
+.container {
+    background-image: linear-gradient(to right,  #ffeeee, #ffc0bb);
+    height: 100vh;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.card-container {
+    height: 500px;
+    width: 800px;
+    background-color: #ffffff;
+    border-radius: 5px;
+}
+.title-style {
+    color:  #0f172a;
+    font-family: 'Roboto';
+}
+.emoji-styling {
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+}
+.name-style {
+    color: #1e293b;
+}
+.emoji-container {
+    display: flex;
+    flex-direction: row;
+}
+.thankyou-container {
+    height: 500px;
+    width: 800px;
+    background-color: #ffffff;
+    border-radius: 5px;
+}
+.love-image-style {
+    height: 60px;
+    width: 30px;
+}
+.thankyou-text {
+    color: #0f172a;
+}
